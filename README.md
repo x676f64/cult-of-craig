@@ -1,3 +1,7 @@
+# News Updates
+
+[Craig laywer admits he doesn't have the keys](https://decrypt.co/16998/confirmed-craig-wright-doesnt-have-keys-to-8-billion-of-bitcoin)
+
 # Craig's List
 
 Facts about CSW's Involvement in Bitcoin
